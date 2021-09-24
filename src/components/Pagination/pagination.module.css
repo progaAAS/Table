@@ -1,0 +1,21 @@
+.pagination{
+    display: flex;
+   margin-top: 20px; 
+}
+.pagination span{
+    margin-right: 10px;
+    color: 282828;
+    background-color: #F9F9F9;
+    border-radius: 50%;
+    width: 20px;
+    text-align: center;
+    cursor: pointer;
+}
+.pagination span:hover{
+    background-color: #282828;
+    color: white;
+}
+.pagination .selectedPage{
+    background-color: #282828;
+    color: white;
+}
