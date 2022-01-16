@@ -10,27 +10,3 @@
 h1{
   color: blue;
 }
-.header{
-  display: flex;
-  flex-direction: row;
-  margin-bottom: 20px;
-}
-li{
-  list-style-type: none;
-}
-button{
-  margin-left: 20px;
-}
-button{
-  color: #fff;
-  background-color: #fe5f1e;
-  border-radius: 30px;
-  min-width: 71px;
-  cursor: pointer;
-  transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out;
-  border: 1px solid transparent;
-  cursor: pointer;
-}
-button:hover{
-  background-color: #a0360c;
-}
